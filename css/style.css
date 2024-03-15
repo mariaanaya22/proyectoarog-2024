@@ -16,3 +16,14 @@ h1{
     text-align: center;
     font-size: 25px;
  }
+ header{
+    height: 20vh;
+ }
+ main{
+    height: 60vh;
+    width: 90%;
+    margin: auto;
+ }
+footer{
+    height: 10vh;
+}
